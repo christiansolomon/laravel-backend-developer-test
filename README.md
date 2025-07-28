@@ -5,7 +5,7 @@
 ---
 
 ## Task 1: Communication (Google Sheets)
-- **Link to Google Sheet:** [View here](https://docs.google.com/spreadsheets/d/YOUR_ID/edit?usp=sharing)
+- **Link to Google Sheet:** [View here](https://docs.google.com/spreadsheets/d/1RJnRlGMIjTq3K7DtUK3YOgj96mUb6feqiAE9Vtxcb_E/edit?gid=0#gid=0)
 - Contains:
   - 10x52 uniform random values
   - Cumulative sums
